@@ -13,7 +13,6 @@ class _MainPageWidgetState extends State<MainPageWidget> {
     Image.asset(
       'assets/images/index.jpg',
     ),
-    // Text('Какой то текст'),
     Image.network(
         'https://avatars.mds.yandex.net/get-ott/1652588/2a00000167fa75d2172d17922a71191efb69/1344x756'),
     Image.network(
